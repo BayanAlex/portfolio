@@ -147,7 +147,10 @@ JavaScript, Jest
 ##### Description:  
 My first JavaScript project. It is my adaptive version of the famous Snake Game.  
 ##### Tools:  
-HTML, SCSS, JavaScript
+HTML, SCSS, JavaScript  
+
+[![LINK](/img/snake1.png)](https://cyberalex.gitlab.io/snake/)  
+[![LINK](/img/snake2.png)](https://cyberalex.gitlab.io/snake/)
 </details>
 
 <details>
@@ -158,5 +161,7 @@ HTML, SCSS, JavaScript
 ##### Description:  
 Adaptive markup of a landing from a PSD.  
 ##### Tools:  
-HTML, SCSS
+HTML, SCSS  
+
+[![LINK](/img/bicycle.png)](https://cyberalex.gitlab.io/bicycle)
 </details>
