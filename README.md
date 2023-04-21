@@ -90,7 +90,7 @@ Adaptive FrontEnd application of own design. It is using provided REST API BackE
 User can create columns of tasks grouped in boards. Each task includes a description and a checklist.  
 Using drag and drop, user can reorder columns, move tasks within and between columns. User can search tasks via BackEnd.  
 The application is localized in 2 languages (English and Ukrainian).  
-`HTML` `SCSS` `Angular` `TypeScript` `RxJS` `Material` `Tailwind` `Ng-translate` 
+`HTML` `SCSS` `Angular` `TypeScript` `RxJS` `Material` `Tailwind` `Ngx-translate` 
 
 [![LINK](/img/pma1.png)](https://cyberalex-pma.netlify.app/)  
 [![LINK](/img/pma2.png)](https://cyberalex-pma.netlify.app/)  
