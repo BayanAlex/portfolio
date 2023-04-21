@@ -79,7 +79,7 @@ Getting news from the free API [newsapi.org](https://newsapi.org/). Existing pro
 ##### Tools:  
 `HTML` `CSS` `TypeScript`   
 
-Note: the project must be run on a localhost, since API CORS is disabled in a free version.  
+*Note: the project needs to be run on localhost as the CORS API is disabled in the free version.*
 
 ![LINK](/img/news.png)
 </details>
