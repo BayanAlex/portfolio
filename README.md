@@ -1,7 +1,7 @@
 # My portfolio
 ## RS School FrontEnd/Angular Course (EN)
-#### [Course description](https://rs.school/js-en/)
-#### [Profile](https://app.rs.school/cv/be5c7c13-6e84-479d-b995-cedd3a593c22)
+[Course description](https://rs.school/js-en/)  
+[My profile](https://app.rs.school/cv/be5c7c13-6e84-479d-b995-cedd3a593c22)
 <details>
 <summary>Certificate</summary>
 
