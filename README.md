@@ -18,7 +18,7 @@
 ##### Description:  
 Landing page of own design. Adaptive.  
 ##### Tools:  
-`HTML, CSS`  
+`HTML` `CSS`  
 
 [![LINK](/img/cv.png)](https://bayanalex.github.io/rs-cv/)
 </details>
@@ -32,7 +32,7 @@ Landing page of own design. Adaptive.
 ##### Description:  
 Pages **About** and **Donate** including sliders, popup, burger menu. Adaptive. Pixel perfect.  
 ##### Tools:  
-`HTML, SCSS, JavaScript, Figma`  
+`HTML` `SCSS` `JavaScript` `Figma`  
 
 [![LINK](/img/zoo.png)](https://bayanalex.github.io/rs-online-zoo/)
 </details>
@@ -47,7 +47,7 @@ Pages **About** and **Donate** including sliders, popup, burger menu. Adaptive. 
 Pages **Main** and **Order** of own design. HTML body of page Main is fully created using JS DOM.  
 Drag and drop, books search and rating functionality, bag slider, book description popup, order form validation.  
 ##### Tools:  
-`HTML, SCSS, JavaScript`   
+`HTML` `SCSS` `JavaScript`   
 
 [![LINK](/img/bookshop.png)](https://bayanalex.github.io/rs-books-shop/)
 </details>
@@ -64,7 +64,7 @@ Working with cars, race (note: cars can "break" during a race), pagination, winn
 SVG cars moving animation individually or a race of all cars on the page.  
 Practice of DOM, promises, fetch, async/await, JS-animation, ES6 modules.  
 ##### Tools: 
-`HTML, SCSS, JavaScript, Webpack`   
+`HTML` `SCSS` `JavaScript` `Webpack`   
 
 [![LINK](/img/async-race.png)](https://bayanalex.github.io/rs-async-race/)
 </details>
@@ -77,7 +77,7 @@ Practice of DOM, promises, fetch, async/await, JS-animation, ES6 modules.
 ##### Description:  
 Getting news from the free API [newsapi.org](https://newsapi.org/). Existing project migration from JavaScript to TypeScript. Redesign + adaptive.  
 ##### Tools:  
-`HTML, CSS, TypeScript`   
+`HTML` `CSS` `TypeScript`   
 
 Note: the project must be run on a localhost, since API CORS is disabled in a free version.  
 
@@ -96,7 +96,7 @@ User can create columns of tasks grouped in boards. Each task includes a descrip
 Using drag and drop, user can reorder columns, move tasks within and between columns. User can search tasks via BackEnd.  
 The application is localized in 2 languages (English and Ukrainian).  
 ##### Tools:  
-`HTML, SCSS, Angular, TypeScript, RxJS, Material, Tailwind, Ng-translate`  
+`HTML` `SCSS` `Angular` `TypeScript` `RxJS` `Material` `Tailwind` `Ng-translate` 
 
 [![LINK](/img/pma1.png)](https://cyberalex-pma.netlify.app/)  
 [![LINK](/img/pma2.png)](https://cyberalex-pma.netlify.app/)  
@@ -136,7 +136,7 @@ ES5 and ES6 classes inheritance and functions chaining.
 Own versions of a set of [Lodash](https://lodash.com/) functions for arrays and objects and unit tests for them.  
 Tests coverage 100%.  
 ##### Tools:  
-`JavaScript, Jest`
+`JavaScript` `Jest`
 </details>
 
 ## My projects
@@ -148,7 +148,7 @@ Tests coverage 100%.
 ##### Description:  
 My first JavaScript project. It is my adaptive version of the famous Snake Game.  
 ##### Tools:  
-`HTML, SCSS, JavaScript`  
+`HTML` `SCSS` `JavaScript`  
 
 [![LINK](/img/snake1.png)](https://cyberalex.gitlab.io/snake/)  
 [![LINK](/img/snake2.png)](https://cyberalex.gitlab.io/snake/)
@@ -162,7 +162,7 @@ My first JavaScript project. It is my adaptive version of the famous Snake Game.
 ##### Description:  
 Adaptive markup of a landing from a PSD.  
 ##### Tools:  
-`HTML, SCSS`  
+`HTML` `SCSS`  
 
 [![LINK](/img/bicycle.png)](https://cyberalex.gitlab.io/bicycle)
 </details>
