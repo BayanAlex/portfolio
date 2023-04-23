@@ -16,7 +16,9 @@
 [👉 Source code](https://github.com/BayanAlex/rs-cv)  
 [👉 Deployment](https://bayanalex.github.io/rs-cv/)  
 ##### Description:  
-Landing page of own design. Adaptive.  
+- Landing page of own design 
+- Adaptive
+  
 `HTML` `CSS`  
 
 [![LINK](/img/cv.png)](https://bayanalex.github.io/rs-cv/)
@@ -29,7 +31,11 @@ Landing page of own design. Adaptive.
 [👉 Source code](https://github.com/BayanAlex/rs-online-zoo)  
 [👉 Deployment](https://bayanalex.github.io/rs-online-zoo/)  
 ##### Description:  
-Pages **About** and **Donate** including sliders, popup, burger menu. Adaptive. Pixel perfect.  
+- Pages *About* and *Donate*
+- 2 sliders, popup, burger menu
+- Adaptive
+- Pixel perfect
+  
 `HTML` `SCSS` `JavaScript` `Figma`  
 
 [![LINK](/img/zoo.png)](https://bayanalex.github.io/rs-online-zoo/)
@@ -42,9 +48,14 @@ Pages **About** and **Donate** including sliders, popup, burger menu. Adaptive. 
 [👉 Source code](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/books-shop/books-shop.md)  
 [👉 Deployment](https://bayanalex.github.io/rs-books-shop/)  
 ##### Description:  
-Pages **Main** and **Order** of own design. HTML body of page Main is fully created using JS DOM.  
-Drag and drop, books search and rating functionality, bag slider, book description popup, order form validation.  
-`HTML` `SCSS` `JavaScript`   
+- Pages *Main* and *Order* of own design
+- HTML body of page *Main* is fully created using JS DOM
+- Drag and drop, books search and rating functionality
+- Bag slider, book description popup
+- Using local storage
+- Order form validation using regular expressions
+  
+`HTML` `SCSS` `JavaScript`  
 
 [![LINK](/img/bookshop.png)](https://bayanalex.github.io/rs-books-shop/)
 </details>
@@ -56,11 +67,16 @@ Drag and drop, books search and rating functionality, bag slider, book descripti
 [👉 Source code](https://github.com/BayanAlex/rs-async-race)  
 [👉 Deployment](https://bayanalex.github.io/rs-async-race/)  
 ##### Description:  
-SPA FrontEnd of the own design. Pages **Garage** and **Winners**. HTML body is fully created using JS DOM.  
-Working with cars, race (note: cars can "break" during a race), pagination, winners table is made via provided REST API BackEnd.  
-SVG cars moving animation individually or a race of all cars on the page.  
-Practice of DOM, promises, fetch, async/await, JS-animation, ES6 modules.  
-`HTML` `SCSS` `JavaScript` `Webpack`   
+- Practice in DOM, promises, fetch, async/await, JS-animation, ES6 modules, Webpack
+- SPA FrontEnd application of own design. Adaptive till 500px
+- HTML body is fully created using JS DOM
+- Working with cars, race, pagination, winners table is made via provided REST API BackEnd
+- Player can create, edit and remove cars
+- Cars can be driven individually or in a race of all cars on the page
+- Race winner is added to the score table on the *Winners* page
+- Note: cars can suddenly "break" during a race
+  
+`HTML` `SCSS` `JavaScript` `Webpack` `Eslint`  
 
 [![LINK](/img/async-race.png)](https://bayanalex.github.io/rs-async-race/)
 </details>
@@ -71,7 +87,10 @@ Practice of DOM, promises, fetch, async/await, JS-animation, ES6 modules.
 [👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/typescript/typescript.md)  
 [👉 Source code](https://github.com/BayanAlex/rs-news-js-to-ts)  
 ##### Description:  
-Getting news from the free API [newsapi.org](https://newsapi.org/). Existing project migration from JavaScript to TypeScript. Redesign + adaptive.  
+- Getting news from the free API [newsapi.org](https://newsapi.org/)
+- Existing project migration from JavaScript to TypeScript
+- Redesign + adaptive
+  
 `HTML` `CSS` `TypeScript`   
 
 *Note: the project needs to be run on localhost as the CORS API is disabled in the free version.*
@@ -86,10 +105,15 @@ Getting news from the free API [newsapi.org](https://newsapi.org/). Existing pro
 [👉 Source code](https://github.com/BayanAlex/rs-pma-angular)  
 [👉 Deployment](https://cyberalex-pma.netlify.app/)
 ##### Description:  
-Adaptive FrontEnd application of own design. It is using provided REST API BackEnd. The application is based on a basic [Trello](https://trello.com/) functionality.  
-User can create columns of tasks grouped in boards. Each task includes a description and a checklist.  
-Using drag and drop, user can reorder columns, move tasks within and between columns. User can search tasks via BackEnd.  
-The application is localized in 2 languages (English and Ukrainian).  
+- RS School FrontEnd Course final Angular project
+- Adaptive FrontEnd application of own design. It is using existing REST API BackEnd
+- The application is based on a basic [Trello](https://trello.com/) functionality
+- User can create columns of tasks grouped in boards. Each task includes a description and a checklist
+- Using drag and drop, user can reorder columns, move tasks within and between columns
+- User can search tasks via BackEnd
+- The application is localized in 2 languages (English and Ukrainian)
+- User form validation is provided
+  
 `HTML` `SCSS` `Angular` `TypeScript` `RxJS` `Material` `Tailwind` `Ngx-translate` 
 
 [![LINK](/img/pma1.png)](https://cyberalex-pma.netlify.app/)  
@@ -105,7 +129,9 @@ The application is localized in 2 languages (English and Ukrainian).
 [👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/classes-inheritance/classes-inheritance.md)  
 [👉 Source code](https://github.com/BayanAlex/rs-classes-inheritance)
 ##### Description:  
-ES5 and ES6 classes inheritance and functions chaining.  
+- ES5 and ES6 classes inheritance
+- Functions chaining
+  
 `JavaScript`
 </details>
 
@@ -115,7 +141,8 @@ ES5 and ES6 classes inheritance and functions chaining.
 [👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/core-js-101/core-js-101.md)  
 [👉 Source code](https://github.com/BayanAlex/rs-unit-tests)
 ##### Description:  
-98 various coding tasks.  
+- 98 various coding tasks
+  
 `JavaScript`
 </details>
 
@@ -125,8 +152,10 @@ ES5 and ES6 classes inheritance and functions chaining.
 [👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/unit-tests/unit-tests.md)  
 [👉 Source code](https://github.com/BayanAlex/rs-unit-tests)
 ##### Description:  
-Own versions of a set of [Lodash](https://lodash.com/) functions for arrays and objects and unit tests for them.  
-Tests coverage 100%.  
+- Own versions of a set of [Lodash](https://lodash.com/) functions for arrays and objects
+- Unit tests
+- Tests coverage 100%
+  
 `JavaScript` `Jest`
 </details>
 
@@ -137,7 +166,11 @@ Tests coverage 100%.
 [👉 Source code](https://gitlab.com/cyberalex/snake)  
 [👉 Deployment](https://cyberalex.gitlab.io/snake/)  
 ##### Description:  
-My first JavaScript project. It is my adaptive version of the famous Snake Game.  
+- My first JavaScript project. It is my version of the famous Snake Game
+- User can use buttons for snake direction or click on the field
+- Saving settings to the local storage
+- Adaptive
+  
 `HTML` `SCSS` `JavaScript`  
 
 [![LINK](/img/snake1.png)](https://cyberalex.gitlab.io/snake/)  
@@ -150,7 +183,9 @@ My first JavaScript project. It is my adaptive version of the famous Snake Game.
 [👉 Source code](https://gitlab.com/cyberalex/bicycle)  
 [👉 Deployment](https://cyberalex.gitlab.io/bicycle)  
 ##### Description:  
-Adaptive markup of a landing from a PSD.  
+- Adaptive markup of a landing from a PSD
+- CSS grid and adaptive practice
+  
 `HTML` `SCSS`  
 
 [![LINK](/img/bicycle.png)](https://cyberalex.gitlab.io/bicycle)
