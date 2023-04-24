@@ -1,4 +1,4 @@
-# My portfolio
+# Portfolio (Oleksandr Shyhyda)
 ## RS School FrontEnd/Angular Course (EN)
 [➡️ Course description](https://rs.school/js-en/)  
 [➡️ My profile](https://app.rs.school/cv/be5c7c13-6e84-479d-b995-cedd3a593c22)
@@ -44,8 +44,8 @@
 <details>
 <summary>Books Shop</summary>
 
-[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/online-zoo/online-zoo.md)  
-[👉 Source code](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/books-shop/books-shop.md)  
+[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/books-shop/books-shop.md)  
+[👉 Source code](https://github.com/BayanAlex/rs-books-shop)  
 [👉 Deployment](https://bayanalex.github.io/rs-books-shop/)  
 ##### Description:  
 - Pages *Main* and *Order* of own design
