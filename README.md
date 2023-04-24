@@ -138,8 +138,8 @@
 <details>
 <summary>Core JS</summary>
 
-[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/core-js-101/core-js-101.md)  
-[👉 Source code](https://github.com/BayanAlex/rs-unit-tests)
+[👉 Task](https://github.com/mikhama/core-js-101/blob/master/README.md)  
+[👉 Source code](https://github.com/BayanAlex/rs-core-js-101)
 ##### Description:  
 - 98 various coding tasks
   
