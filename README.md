@@ -1,8 +1,8 @@
 # Portfolio (Oleksandr Shyhyda)
 Contact: oleksandr.shyhyda@gmail.com
 ## RS School FrontEnd/Angular Course (EN)
-[➡️ Course description](https://rs.school/js-en/)
-[➡️ My profile](https://app.rs.school/cv/be5c7c13-6e84-479d-b995-cedd3a593c22)
+[➡️ Course description](https://rs.school/js-en/)  
+[➡️ My profile](https://app.rs.school/cv/be5c7c13-6e84-479d-b995-cedd3a593c22)  
 <details>
 <summary>Certificate</summary>
 
@@ -13,9 +13,9 @@ Contact: oleksandr.shyhyda@gmail.com
 <details>
 <summary>CV</summary>
 
-[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/CV(markdown)/CV(HTML+CSS+Markdown).md)
-[👉 Source code](https://github.com/BayanAlex/rs-cv)
-[👉 Try it](https://bayanalex.github.io/rs-cv/)
+[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/CV(markdown)/CV(HTML+CSS+Markdown).md)  
+[👉 Source code](https://github.com/BayanAlex/rs-cv)  
+[👉 Try it](https://bayanalex.github.io/rs-cv/)  
 ##### Description:
 - Landing page of own design
 - Adaptive
@@ -28,9 +28,9 @@ Contact: oleksandr.shyhyda@gmail.com
 <details>
 <summary>Online Zoo</summary>
 
-[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/online-zoo/online-zoo.md)
-[👉 Source code](https://github.com/BayanAlex/rs-online-zoo)
-[👉 Try it](https://bayanalex.github.io/rs-online-zoo/)
+[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/online-zoo/online-zoo.md)  
+[👉 Source code](https://github.com/BayanAlex/rs-online-zoo)  
+[👉 Try it](https://bayanalex.github.io/rs-online-zoo/)  
 ##### Description:
 - Pages *About* and *Donate*
 - 2 sliders, popup, burger menu
@@ -45,9 +45,9 @@ Contact: oleksandr.shyhyda@gmail.com
 <details>
 <summary>Books Shop</summary>
 
-[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/books-shop/books-shop.md)
-[👉 Source code](https://github.com/BayanAlex/rs-books-shop)
-[👉 Try it](https://bayanalex.github.io/rs-books-shop/)
+[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/books-shop/books-shop.md)  
+[👉 Source code](https://github.com/BayanAlex/rs-books-shop)  
+[👉 Try it](https://bayanalex.github.io/rs-books-shop/)  
 ##### Description:
 - Pages *Main* and *Order* of own design
 - HTML body of page *Main* is fully created using JS DOM
@@ -64,9 +64,9 @@ Contact: oleksandr.shyhyda@gmail.com
 <details>
 <summary>Async Race</summary>
 
-[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/async-race/async-race.md)
-[👉 Source code](https://github.com/BayanAlex/rs-async-race)
-[👉 Try it](https://bayanalex.github.io/rs-async-race/)
+[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/async-race/async-race.md)  
+[👉 Source code](https://github.com/BayanAlex/rs-async-race)  
+[👉 Try it](https://bayanalex.github.io/rs-async-race/)  
 ##### Description:
 - Practice in DOM, promises, fetch, async/await, JS-animation, ES6 modules, Webpack
 - SPA FrontEnd application of own design. Adaptive till 500px
@@ -85,8 +85,8 @@ Contact: oleksandr.shyhyda@gmail.com
 <details>
 <summary>News JS</summary>
 
-[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/typescript/typescript.md)
-[👉 Source code](https://github.com/BayanAlex/rs-news-js-to-ts)
+[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/typescript/typescript.md)  
+[👉 Source code](https://github.com/BayanAlex/rs-news-js-to-ts)  
 ##### Description:
 - Getting news from the free API [newsapi.org](https://newsapi.org/)
 - Existing project migration from JavaScript to TypeScript
@@ -102,9 +102,9 @@ Contact: oleksandr.shyhyda@gmail.com
 <details>
 <summary>Project Management Application (Angular)</summary>
 
-[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/angular/project-management-system.md)
-[👉 Source code](https://github.com/BayanAlex/rs-pma-angular)
-[👉 Try it](https://cyberalex-pma.netlify.app/)
+[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/angular/project-management-system.md)  
+[👉 Source code](https://github.com/BayanAlex/rs-pma-angular)  
+[👉 Try it](https://cyberalex-pma.netlify.app/)  
 ##### Description:
 - RS School FrontEnd Course final Angular project
 - Adaptive FrontEnd application of own design. It is using existing REST API BackEnd
@@ -127,8 +127,8 @@ Contact: oleksandr.shyhyda@gmail.com
 <details>
 <summary>Classes and inheritance</summary>
 
-[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/classes-inheritance/classes-inheritance.md)
-[👉 Source code](https://github.com/BayanAlex/rs-classes-inheritance)
+[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/classes-inheritance/classes-inheritance.md)  
+[👉 Source code](https://github.com/BayanAlex/rs-classes-inheritance)  
 ##### Description:
 - ES5 and ES6 classes inheritance
 - Functions chaining
@@ -139,8 +139,8 @@ Contact: oleksandr.shyhyda@gmail.com
 <details>
 <summary>Core JS</summary>
 
-[👉 Task](https://github.com/mikhama/core-js-101/blob/master/README.md)
-[👉 Source code](https://github.com/BayanAlex/rs-core-js-101)
+[👉 Task](https://github.com/mikhama/core-js-101/blob/master/README.md)  
+[👉 Source code](https://github.com/BayanAlex/rs-core-js-101)  
 ##### Description:
 - 98 various coding tasks
 
@@ -150,8 +150,8 @@ Contact: oleksandr.shyhyda@gmail.com
 <details>
 <summary>Unit tests</summary>
 
-[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/unit-tests/unit-tests.md)
-[👉 Source code](https://github.com/BayanAlex/rs-unit-tests)
+[👉 Task](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/unit-tests/unit-tests.md)  
+[👉 Source code](https://github.com/BayanAlex/rs-unit-tests)  
 ##### Description:
 - Own versions of a set of [Lodash](https://lodash.com/) functions for arrays and objects
 - Unit tests
@@ -164,8 +164,8 @@ Contact: oleksandr.shyhyda@gmail.com
 <details>
 <summary>Snake Game</summary>
 
-[👉 Source code](https://gitlab.com/cyberalex/snake)
-[👉 Try it](https://cyberalex.gitlab.io/snake/)
+[👉 Source code](https://gitlab.com/cyberalex/snake)  
+[👉 Try it](https://cyberalex.gitlab.io/snake/)  
 ##### Description:
 - My first JavaScript project. It is my version of the famous Snake Game
 - User can use buttons for snake direction or click on the field
@@ -181,8 +181,8 @@ Contact: oleksandr.shyhyda@gmail.com
 <details>
 <summary>Bicycle</summary>
 
-[👉 Source code](https://gitlab.com/cyberalex/bicycle)
-[👉 Try it](https://cyberalex.gitlab.io/bicycle)
+[👉 Source code](https://gitlab.com/cyberalex/bicycle)  
+[👉 Try it](https://cyberalex.gitlab.io/bicycle)  
 ##### Description:
 - Adaptive markup of a landing from a PSD
 - CSS grid and adaptive practice
