@@ -167,12 +167,17 @@ Contact: oleksandr.shyhyda@gmail.com
 [👉 Source code](https://gitlab.com/cyberalex/snake)  
 [👉 Try it](https://cyberalex.gitlab.io/snake/)  
 ##### Description:
-- My first JavaScript project. It is my version of the famous Snake Game
-- User can use buttons for snake direction or click on the field
+- Module structure
+- ES6 OOP
 - Saving settings to the local storage
-- Adaptive
+- Adaptive and responsive
+- Additional arrow keypad for touchscreens
+- Game field size is configurable
+- Amount of targets depends on the field size
+- User can use arrow buttons for snake movement direction or click on the field
+- Space button for play/stop
 
-`HTML` `SCSS` `JavaScript`
+`HTML` `SCSS` `JavaScript` `Webpack`
 
 [![LINK](/img/snake1.png)](https://cyberalex.gitlab.io/snake/)
 [![LINK](/img/snake2.png)](https://cyberalex.gitlab.io/snake/)
