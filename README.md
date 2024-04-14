@@ -1,12 +1,14 @@
 # Portfolio (Oleksandr Shyhyda)
 Contact: oleksandr.shyhyda@gmail.com
-## RS School FrontEnd/Angular Course (EN)
-[➡️ Course description](https://rs.school/js-en/)  
+## RS School FrontEnd/Angular Course 2023 (EN)
+[➡️ Course description](https://rs.school/courses/javascript-mentoring-program)  
 [➡️ My profile](https://app.rs.school/cv/be5c7c13-6e84-479d-b995-cedd3a593c22)  
+
 <details>
 <summary>Certificate</summary>
 
-[![Certificate](/img/cert.png)](https://app.rs.school/certificate/5bm7utrx)
+[![Certificate](/img/cert_fe.png)](https://app.rs.school/certificate/5bm7utrx)  
+![Stats FE](/img/stats_fe.png)  
 </details>
 
 ### Projects
@@ -106,7 +108,7 @@ Contact: oleksandr.shyhyda@gmail.com
 [👉 Source code](https://github.com/BayanAlex/rs-pma-angular)  
 [👉 Try it](https://cyberalex-pma.netlify.app/)  
 ##### Description:
-- RS School FrontEnd Course final Angular project
+- Course final project on Angular
 - Adaptive FrontEnd application of own design. It is using existing REST API BackEnd
 - The application is based on a basic [Trello](https://trello.com/) functionality
 - User can create columns of tasks grouped in boards. Each task includes a description and a checklist
@@ -134,6 +136,7 @@ Contact: oleksandr.shyhyda@gmail.com
 - Functions chaining
 
 `JavaScript`
+
 </details>
 
 <details>
@@ -145,6 +148,7 @@ Contact: oleksandr.shyhyda@gmail.com
 - 98 various coding tasks
 
 `JavaScript`
+
 </details>
 
 <details>
@@ -158,6 +162,145 @@ Contact: oleksandr.shyhyda@gmail.com
 - Tests coverage 100%
 
 `JavaScript` `Jest`
+</details>
+
+## RS School BackEnd/Node.js/NestJS Course 2024 (EN)
+[➡️ Course description](https://rs.school/courses/nodejs)  
+[➡️ My profile](https://app.rs.school/cv/be5c7c13-6e84-479d-b995-cedd3a593c22)  
+
+<details>
+<summary>Certificate</summary>
+
+[![Certificate](/img/cert_be.png)](https://app.rs.school/certificate/cahpblg2)  
+![Stats BE](/img/stats_be.png)  
+</details>
+
+### Tasks
+<details>
+<summary>Node.js basics</summary>
+
+[👉 Task](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/nodejs-basics/assignment.md)  
+[👉 Source code](https://github.com/BayanAlex/node-nodejs-basics)  
+##### Description:
+- File system
+- Command line interface
+- Modules
+- Streams
+- Hash
+- Zlib
+- Worker threads
+- Child processes
+
+`Node.js`
+
+</details>
+
+<details>
+<summary>Basic Testing (Jest)</summary>
+
+[👉 Task](https://github.com/AlreadyBored/basic-testing)  
+[👉 Source code](https://github.com/BayanAlex/rs-basic-testing)  
+##### Description:
+- Simple tests
+- Table tests
+- Error handling & async
+- Testing class
+- Partial mocking
+- Mocking Node.js API
+- Mocking library API
+- Snapshot testing
+
+`Node.js` `Jest` `TypeScript`
+
+</details>
+
+### Projects
+<details>
+<summary>File Manager</summary>
+
+[👉 Task](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/file-manager/assignment.md)  
+[👉 Source code](https://github.com/BayanAlex/rs-file-manager)  
+##### Description:
+Console file manager with basic operations:  
+- File system navigation
+- File operations: create, view, copy, move, delete, rename
+- Hash calculation
+- Archiving
+- OS info
+
+`Node.js`
+
+</details>
+
+<details>
+<summary>Simple CRUD API</summary>
+
+[👉 Task](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/crud-api/assignment.md)  
+[👉 Source code](https://github.com/BayanAlex/rs-crud-api)  
+##### Description:
+- REST CRUD operations using in-memory DB
+- Horizontal scaling with a load balancer based on Cluster API for processing requests using Round-robin algorithm
+- API tests
+
+`Node.js` `TypeScript` `Webpack` `Jest`
+
+</details>
+
+<details>
+<summary>GraphQL service</summary>
+
+[👉 Task](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/graphql-service/assignment.md)  
+[👉 Source code](https://github.com/BayanAlex/rs-nodejs-task-graphql)  
+##### Description:
+- App migration from REST to GraphQL
+- Resolvers
+- Data loaders
+- Depth limit
+- Caching
+
+`Node.js` `GraphQL` `TypeScript`
+
+</details>
+
+<details>
+<summary>Websocket battleship server</summary>
+
+[👉 Task](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/battleship/assignment.md)  
+[👉 Source code](https://github.com/BayanAlex/rs-websockets-ui)  
+##### Description:
+- Realtime battleship game WebSocket server
+- Rooms for playing 1x1
+- Playing with a bot
+- Winners table
+
+`Node.js` `TypeScript` `Webpack` `WebSocket`
+
+</details>
+
+<details>
+<summary>REST Service</summary>
+
+[👉 Task. Part 1](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/rest-service/assignment.md)  
+[👉 Task. Part 2](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/containerization-database-orm/assignment.md)  
+[👉 Task. Part 3](https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/logging-error-authentication-authorization/assignment.md)  
+[👉 Source code](https://github.com/BayanAlex/nodejs2024Q1-service)  
+##### Description:
+- Course final project on NestJS
+- Service for storing users, music albums, tracks, artists and favorites
+- Requests validation, errors handling
+- REST CRUD server using PostgreSQL via Prisma ORM
+- App server and database running in Docker containers
+- Containers running using Docker Compose
+- Saving database data, logs and app logs files in Docker volumes
+- Requests, responses and errors logging to console and files rotated with size
+- Setting of logging levels
+- Settings in .env
+- JWT auth with access and refresh tokens
+- Passwords hashing using Bcrypt
+- Route guards
+
+`Node.js` `NestJS` `TypeScript` `Webpack` `Docker` `JWT auth` `Prisma ORM`
+
 </details>
 
 ## My projects
