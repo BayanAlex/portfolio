@@ -171,7 +171,7 @@ Contact: oleksandr.shyhyda@gmail.com
 <details>
 <summary>Certificate</summary>
 
-[![Certificate](/img/cert_be.png)](https://app.rs.school/certificate/cahpblg2)  
+[![Certificate](/img/cert_be.png)](https://app.rs.school/certificate/nks96scm)  
 ![Stats BE](/img/stats_be.png)  
 </details>
 
